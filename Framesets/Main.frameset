@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<note class='form' xmlns='http://www.lotus.com/dxl' version='8.5' maintenanceversion='4.0'
+ replicaid='852571C6004B1A32'>
+<noteinfo noteid='21a' unid='7C1310D47035BC7985256FC4005F222B' sequence='10'>
+<created><datetime dst='true'>20050314T131906,67-04</datetime></created>
+<modified><datetime dst='true'>20060921T160802,64-04</datetime></modified>
+<revised><datetime dst='true'>20060921T160802,63-04</datetime></revised>
+<lastaccessed><datetime dst='true'>20060921T160802,63-04</datetime></lastaccessed>
+<addedtofile><datetime dst='true'>20060810T094019,96-04</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Sean Burgess/O=Clark</name><name>CN=Clark Construction/O=Clark</name><name
+>CN=Sean Burgess/O=Clark</name><name>CN=Clark Construction/O=Clark</name><name
+>CN=Sean Burgess/O=Clark</name><name>CN=Sean Burgess/O=PSW</name></updatedby>
+<wassignedby><name>CN=Sean Burgess/O=PSW</name></wassignedby>
+<item name='$TITLE' sign='true'><text>Main</text></item>
+<item name='$WindowTitle' sign='true'><formula>"ASND Mass Mailer Database"</formula></item>
+<item name='$Comment' sign='true'><text/></item>
+<item name='$FrameSet' sign='true'>
+<rawitemdata type='1'>
+7/8YAAIAAwAAAAAAAAAAAAAAAAAAAAAA8P8+AE0AAAABAAAAAAACAAIAAAAAAAUAAAAAAAUAAAAA
+AAEAAgAAAAAAAQAAAIAAAAADAAEAAQDNAAMAZADx/z0AFwAAAABAAQADAAAAAAAAAAAAAAAAAAkA
+AQAAAIAAAABOb3Rlc1ZpZXcBAP///wABAAAJAQD///8AP/b/KwAAAAAAAwAHAAkAAAAAAAAAAAAA
+AAAAAAAAAAAAAABOYXZpZ2F0b3I/8f89AAcBAAAAQAEAAwAAAAAAAAAAAAkAAAAAAAEAAACAAAAA
+Tm90ZXNWaWV3AQD///8AAQAACQEA////AD/2/zQAAAAAAAMAAgASAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAQWxsIENvbW11bmljYXRpb25z
+</rawitemdata></item>
+<item name='$Flags'><text>#34CQ</text></item>
+<item name='$DesignerVersion'><text>6.5</text></item></note>
+

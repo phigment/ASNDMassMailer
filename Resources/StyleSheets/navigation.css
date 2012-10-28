@@ -1,0 +1,74 @@
+/* BODY {font-family: geneva, arial, sans-serif;font-size: 10pt;background-color : #C1C1A2; margin : 15px 10px;margin:10px 0px;} */
+BODY {font-family: geneva, arial, sans-serif;font-size: 10pt;background-color : #DFDFBF; margin : 15px 10px;margin:10px 0px;}
+
+A {font-family: geneva, arial, sans-serif; font-weight : normal; color: #000000; text-decoration: none;} 
+A:hover {font-family: geneva, arial, sans-serif; font-weight : normal; color: #003399; background-color:#ffffff;}
+A:active {font-family: geneva, arial, sans-serif; font-weight : normal; color: #003399; background-color:#ffffff;}
+
+TD {border: 0px none #003399;font-family: geneva, arial, sans-serif;font-size: 10pt;vertical-align : top;padding: 3px 0px 2px 2px;}
+
+HR { color: #003399; height: 1px;}
+
+.logo {
+	margin:0px;
+	padding: 15px 0px 0px 15px;
+}
+
+.welcome {
+	font-family: geneva, arial, sans-serif;font-size: 10pt;
+	color: #003399;
+	margin:15px;
+	font-weight : bold;
+}
+
+.menucontainer {
+	margin-top:15px;
+	border-left: 1px solid #003399;
+	border-right: 1px solid #003399;
+	background-color:#ECECD9;
+	padding:5px 0px;
+	width:185px;
+}
+
+.menucontainer a {
+	width:165px;
+	padding:0px 5px;
+}
+
+.menucontainer ul {
+	margin:0px;
+	padding:10px;
+}
+
+.menucontainer li {
+	list-style:none;
+	padding:3px 0px;
+}
+
+.menucontainer2 {
+	margin-top:15px;
+//	border-left: 1px solid #003399;
+//	border-right: 1px solid #003399;
+	background-color:#ECECD9;
+	padding:5px 0px;
+	width:185px;
+}
+
+.menucontainer2 ul {
+	margin:0px;
+	padding:10px;
+}
+
+.menucontainer2 li {
+	list-style:none;
+	padding:3px 0px;
+}
+
+.menucontainer2 a {
+	width:165px;
+	padding:0px 5px;
+	color:red;
+	font-weight:bold;
+}
+.menucontainer2 A:hover {color:red;font-weight:bold;background-color:#ffffff;}
+.menucontainer2 A:active {color:red;font-weight:bold;background-color:#ffffff;}

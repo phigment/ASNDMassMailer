@@ -1,0 +1,189 @@
+BODY {font-family: geneva, arial, sans-serif;}
+
+TD {font-family: geneva, arial, sans-serif;font-size: 9pt; border: 0px none #003399;vertical-align : top;padding: 3px 0px 2px 2px;}
+
+A {font-family: geneva, arial, sans-serif; font-weight : normal; color: blue; text-decoration: none;}
+A:hover {font-family: geneva, arial, sans-serif; font-weight : bold; color: red; text-decoration:underline;}
+
+HR { color: #003399; height: 1px; width:650px; text-align:left;}
+
+input, textarea, select{ 
+	border-top : solid 1px #847D71; 
+	border-right : solid 1px #CCCCCC; 
+	border-left : solid 1px #847D71; 
+	border-bottom : solid 1px #CCCCCC; 
+	color : #000000; 
+	font-family: geneva, arial, sans-serif;
+	font-size: 9pt; 
+}
+
+.button {
+	cursor: pointer;
+	border:1px none #003399;
+	font-family: geneva, arial, sans-serif;
+	font-weight : Bold; 
+	font-size: 9pt; 
+	color: #000000; 
+	background-color : #EBEBEB;
+	text-decoration: none;
+}
+
+input.addbutton {
+	cursor: pointer;
+	border:1px solid #003399;
+	font-family: geneva, arial, sans-serif; 
+	font-weight : Bold; 
+	font-size: 9pt; 
+	color: #000000; 
+	background-color : #EBEBEB;
+	background:url("/databases/subqual.nsf/plus.gif") no-repeat left top;
+	text-decoration: none;
+	padding:0 0 0 20px;
+	line-height : 22px;
+}
+
+input.modifybutton {
+	cursor: pointer;
+	border:1px solid #003399;
+	font-family: geneva, arial, sans-serif; 
+	font-weight : Bold; 
+	font-size: 9pt; 
+	color: #000000; 
+	background-color : #EBEBEB;
+	background:url("/databases/subqual.nsf/modify.gif") no-repeat left top;
+	text-decoration: none;
+	padding:0 0 0 20px;
+	line-height : 22px;
+}
+
+input.deletebutton {
+	cursor: pointer;
+	border:1px solid #003399;
+	font-family: geneva, arial, sans-serif;
+	font-weight : Bold; 
+	font-size: 9pt; 
+	color: #000000; 
+	background-color : #EBEBEB;
+	background:url("/databases/subqual.nsf/minus.gif") no-repeat left top;
+	text-decoration: none;
+	padding:0 0 0 20px;
+	line-height : 22px;
+}
+
+.submitbutton {
+	cursor: pointer;
+	border-top:1px solid #003399;
+	border-right:1px solid #003399;
+	border-left:1px solid #003399;
+	border-bottom:1px solid #003399;
+	font-family: geneva, arial, sans-serif;
+	font-weight : Bold;
+	font-size: 11pt; 
+	text-decoration: none;
+	color: #003399;
+	background-color : #ECECD9;
+	padding: 0px 20px;
+}
+
+.disclaimer  {
+	padding:15px;
+	background:#ECECD9;
+	text-align:center;
+	width : 650px;
+	font-size: 8pt;
+	font-weight:normal;
+	color:#003399;
+}
+
+.introduction {
+	width : 650px;
+}
+
+/* Field Classes */
+.textbox {word-wrap : break-word; width : 500px; height : 80px; overflow: visible; }
+.field {vertical-align : top;}
+.requiredfield{background-color:#ECECD9;}
+.checkfield{vertical-align : top; color : #000000; font : normal 9pt arial; border : 0 none; border-style : none}
+.checkbox{padding: 0px;margin: 0px;width:430px;border : 0 none; border-style : none;}
+.checkbox span{padding: 0px;margin: 0px;display:inline;float:left;width:185px;}
+.checkbox input{padding: 0px;margin: 0px;float:left;width:30px; border : 0 none; border-style : none;}
+.checkbox br{clear:both;}
+
+/* Table Classes*/
+.tableclean {padding: 0px;border-width:0px;}
+.tableclean TD{padding: 3px 0px;border-width:0px;}
+.tablewhiteback {padding: 0px;border-width:0px;background-color : #FFFFFF;}
+.tablewhiteback TD{padding: 3px 0px;border-width:0px;}
+.tablenormal {border-width:1px;border : 1px solid #003399;padding: 4px;}
+.tablenormal TD {padding: 3px 0px 3px 5px;}
+.tableinterlinewhite {padding: 0px;background-color : #FFFFFF;}
+.tableinterlinewhite TD {border-top : 1px solid #003399;border-bottom : 1px solid #003399;padding: 3px 0px 3px 5px;}
+.tableinterline {padding: 0px;}
+.tableinterline TD {border-top : 1px solid #003399;border-bottom : 1px solid #003399;padding: 3px 0px 3px 5px;}
+.tableoutline {border-width:1px;border : 1px solid #003399;padding: 4px;}
+.tableoutline TD {padding: 3px 0px 3px 5px;}
+.tableoutlinewhite {border-width:1px;border : 1px solid #003399;padding: 4px;background-color : #FFFFFF;}
+.tableoutlinewhite TD {padding: 3px 0px 3px 5px;}
+.tableheading { font-size : 12pt; color : #003399;font-weight: bold;cursor:default;}
+.tableheadingwithline { font-size : 12pt; color : #003399;font-weight: bold;cursor:default;border-bottom : 1.5px solid #003399}
+.tableheadingtan { font-size : 12pt; color : #003399;font-weight: bold;cursor:default;background-color : #DFDFBF; padding: 3px 0px;}
+.fieldlabel { font-size: 9pt; color: #003399; font-weight: bold; cursor:default;padding: 3px 5px 2px 0px;}
+.fieldlabelwhite { font-size: 9pt; color: #003399; font-weight: bold;background-color : white; padding: 3px 5px 2px 0px;}
+.fieldlabelgrey { font-size: 9pt; color: #003399; font-weight: bold;background-color : #ECECD9; padding: 3px 5px 2px 0px;}
+.fieldlabeltan { font-size: 9pt; color: #003399; font-weight: bold;background-color : #DFDFBF; padding: 3px 5px 2px 0px;}
+.fieldlabeltanlineabove {border-top : 1px solid #003399; font-size: 9pt; color: #003399; font-weight: bold;background-color : #DFDFBF; padding: 3px 5px 2px 0px;}
+.fieldlabelright { font-size: 9pt; color: #003399; font-weight: bold; cursor:default;padding: 2px 5px 3px 0px;;text-align:right;}
+.fieldlabelwhiteright { font-size: 9pt; color: #003399; font-weight: bold;background-color : white; padding: 2px 5px 3px 0px;text-align:right;}
+.fieldlabelgreyright { font-size: 9pt; color: #003399; font-weight: bold;background-color : #ECECD9; padding: 2px 5px 3px 0px;text-align:right;}
+.fieldlabelgreyright SPAN{font-size : 9pt; color : red; font-weight : bold;background-color : #ECECD9; padding: 2px 5px 3px 0px;text-align:right;}
+.fieldlabelgreycenter { font-size: 9pt; color: #003399; font-weight: bold;background-color : #ECECD9; padding: 2px 5px 3px 0px;text-align:center;}
+.fieldlabellineabove{border-top : 1.5px solid #003399; font-size: 9pt; color: #003399; font-weight: bold; cursor:default;padding: 5px 5px 2px 0px;}
+.fieldlabelinline { font-size: 9pt; color: #003399; font-weight: bold; cursor:default;padding: 3px 0px 2px 0px;width:650px;}
+.fieldsublabel { font-size: 9pt; color: #000000; font-weight: bold; cursor:default; padding: 3px 5px 2px 0px;}
+.fieldsublabelgrey { font-size: 9pt; color: #000000; font-weight: bold; cursor:default; padding: 3px 5px 2px 0px;background-color : #ECECD9;}
+.fieldsublabeltan { font-size: 9pt; color: #000000; font-weight: bold; cursor:default; padding: 3px 5px 2px 0px;background-color : #DFDFBF;}
+.formtitle  {font-size : 18pt; color : #003399;cursor:default;}
+.footer {border-bottom:2px solid #003399;font-size:9pt;font-weight:normal;cursor:default;margin: 5px 0px;}
+.notes{font-size : 9pt; color : red; font-weight : bold;cursor:default; width:650px;}
+.help{font-size : 9pt; color : blue; font-weight : normal;cursor:default;}
+.lineabove{border-top : 1px solid #003399; padding : 5px 0px;}
+.whiterow {background-color : white; }
+.greyrow {background-color : #ECECD9; }
+.embeddedview TD {font: normal 9pt arial;vertical-align : top;padding: 3px 8px 2px 2px;}
+.embeddedview TH {font: normal 9pt arial;vertical-align : top;padding: 1px 5px 3px 5px;  text-decoration : underline; font-weight: bold; background-color : #ECECD9;}
+
+/* Report Classes */
+.reporttable {padding:10px 0px;}
+.reporttable TABLE {border: 0;padding: 4px;font-size: 9pt; width:625px;}
+.reporttable TR {padding: 5px 0px;)
+.reporttable TH {padding: 4px; color: #003399; font-weight: bold; background-color : #ECECD9;}
+.reporttable TD {padding: 3px 2px; color: black; font-weight: normal; background-color : #FFFFFF;border-top: 1px solid #999;}
+.reporttitle  { font-size : 22pt; color : #003399;font-weight:bold;cursor:default;}
+.reportsubtitle  { font-size : 14pt; color : black;cursor:default;}
+
+.subtable TABLE {border : 1px solid #003399;padding: 4px; font-size: 9pt;}
+.subtable TR {padding: 5px 0px;)
+.subtable TH {padding: 4px; color: #003399; font-weight: bold; border-bottom: 2px solid #999;}
+.subtable TD {padding: 3px 10px; color: black; font-weight: normal;}
+
+
+/* Text Classes */
+.action {font-size : 9pt; text-align : center; vertical-align : middle;}
+.navbutton {font-size : 9pt; vertical-align : middle;background-color : #C1C1A2;}
+.normal {font: normal 9pt arial; color : #000000; background-color : #FFFFFF;}
+
+/*Description Classes */
+.compdesc {position: relative; left: .25in; width: 5in; background-color : #EBEBEB;  font-style : italic; font-weight : normal;}
+.proddesc {margin-left : .25in; background-color : #EBEBEB;  font-style : italic; font-weight : normal; word-wrap : break-word; width : 300px;}
+.oldproddesc {position: relative; left: .25in; top: 9pt; width: 4in; height: .2in; background-color : yellow;  font-style : italic; display : block;}
+
+.systems {font-weight : bold;}
+.statuson {font-size : 9pt; font-weight : normal;}
+.statusoff {font-weight : bold; font-size : 11pt; color : red;}
+.comments {font-size : 9pt; font-weight : normal; color : blue;cursor:default;}
+.formdesc {font-size : 8pt; font-weight : normal; text-align : center;cursor:default;}
+.dbtitle  { font-size : 15pt; font-weight : bold;cursor:default;}
+.helptitle  { font-size : 15pt; font-weight : bold;color: #003399; text-align : center;cursor:default;}
+.helpheading  { font-size : 12pt; font-weight : bold;text-decoration:underline;cursor:default;}
+.helpcontent  { font-size : 9pt; font-weight : normal;cursor:default;}
+.licenserow {border-top : 1.5px solid black; padding : 5px 3px;}

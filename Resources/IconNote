@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<note default='true' class='icon' xmlns='http://www.lotus.com/dxl' version='8.5'
+ maintenanceversion='4.0' replicaid='852571C6004B1A32'>
+<noteinfo noteid='11e' unid='2DF765E69106EEE585256B9E006988E7' sequence='4'>
+<created><datetime dst='true'>20020417T151243,27-04</datetime></created>
+<modified><datetime dst='true'>20070731T173550,43-04</datetime></modified>
+<revised><datetime dst='true'>20070731T173550,42-04</datetime></revised>
+<lastaccessed><datetime dst='true'>20070731T173550,42-04</datetime></lastaccessed>
+<addedtofile><datetime dst='true'>20060810T094019,62-04</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Sean Burgess/O=PSW</name></updatedby>
+<item name='$FlagsNoRefresh'><text/></item>
+<item name='$DefaultFrameset'><text>Main</text></item>
+<item name='$TITLE'><text>ASND Mass Mailer</text></item>
+<item name='IconBitmap' summary='true'>
+<rawitemdata type='6'>
+AiAgAQAA/////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAA8AAAAfgAAAP8AAAD/gAAA/4AAAP+AAAD/gAAB/4AAA/
++AAAf/gAAP/4AAH/+AAD//////8AAAAAAAAAAAAAAAAAAAAADu7u7u7u7u7u7u7u7u7u7qAAAAAA
+AAAAAAAAAAAAAA6hqv//////////////+q8OoX+qf39/f39/f39/eq9/DqH396r39/f39/f3+qf3
+/w6hf39/qqp/f396qq9/f38Ooff39/f3qqeqp/f39/f/DqF/f39/f396f39/f39/fw6h9/f39/f3
++vf39/f39/8OoX9/f39/f3p/f39/f39/DqH39/f39xEaERf39/f3/w6hf39/ERGqr6qhER9/f38O
+ofcREaqq////+qqhERf/DqERqqr/////////+qqhHw6hqv7/GBgYGBgYHx//Cq8Oqk9PERHx8fHx
+8fEREQ9KDqT0/xEREREREREREREE9KAKT08RERERERERERERD0oAAKT/ERgYGBgYGB8REQSgAAAK
+TxER8fHx8fHxEREKAAAAAK8RERERERERERERDgAAAAAPEREREREREREREQ4AAAAADxEYGBgYGBgR
+EREOAAAAAA8REfHx8fHx8f//DgAAAAAPERERERERER/u7uAAAAAADxEREREREREfHx4AAAAAAA8R
+ERERERERH/HgAAAAAAAPERERERERER8eAAAAAAAADxEREREREREf4AAAAAAAAA///////////wAA
+AAAAAAAAAAAAAAAAAAAAAAAAAA==
+</rawitemdata></item>
+<item name='$Daos'><text>0</text></item>
+<item name='$Flags'><text>J27FR</text></item></note>
+

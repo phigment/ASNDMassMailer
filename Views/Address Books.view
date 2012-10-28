@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<note class='view' xmlns='http://www.lotus.com/dxl' version='8.5' maintenanceversion='4.0'
+ replicaid='852571C6004B1A32'>
+<noteinfo noteid='31a' unid='863B2B84BE42AC2B852571D9004F2228' sequence='4'>
+<created><datetime dst='true'>20060829T102420,88-04</datetime></created>
+<modified><datetime dst='true'>20060902T111605,00-04</datetime></modified>
+<revised><datetime dst='true'>20060902T111604,99-04</datetime></revised>
+<lastaccessed><datetime dst='true'>20110502T162821,67-04</datetime></lastaccessed>
+<addedtofile><datetime dst='true'>20060829T102420,89-04</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Sean Burgess/OU=DC/O=SIGNALCORP</name><name>CN=Sean Burgess/O=PSW</name></updatedby>
+<wassignedby><name>CN=Sean Burgess/O=PSW</name></wassignedby>
+<item name='$FormatNote' summary='true'>
+<rawitemdata type='4'>
+AQDJDQHQOriFPOWIaQCeayWF
+</rawitemdata></item>
+<item name='$FormulaClass' sign='true'><text>1</text></item>
+<item name='$TITLE' sign='true'><text>Address Books|Address Books</text></item>
+<item name='$Index' sign='true'><text/></item>
+<item name='$Formula' summary='true' sign='true'><formula compiled='true'>
+0AACACAACQBhZGRfdGl0bGUABQAJAGFkZF90aXRsZQADAAIAUgACACQ2BQAKAGFkZF9zZXJ2ZXIB
+AAAACgKvADIAEAABAAUATG9jYWwArgAiAAIABQAAAAAAAAAFAAoAYWRkX3NlcnZlcrQCrgAEALUD
+AwAFACgAJAAEAAkAAgAJAAQAYWRkX3RpdGxlJDYkQ29uZmxpY3QkUkVGBAAEAAAAJAAFAAQARm9y
+bQEADABBZGRyZXNzIEJvb2sKAgQABAADAAcADAAFAAkzUzRTAA==
+</formula></item>
+<item name='$SelQuery' sign='true'>
+<rawitemdata type='f'>
+gQYAAAAAif8YAAAAAAABAAwAQWRkcmVzcyBCb29r
+</rawitemdata></item>
+<item name='$Collation' summary='true'>
+<rawitemdata type='2'>
+BgAAAABE
+</rawitemdata></item>
+<item name='$ViewFormat' summary='true' sign='true'>
+<rawitemdata type='5'>
+AQACAAcAiEwAAFZDAAAJAAUAIgAAAOgAAQAACQAAAAAAAAAAAAICAAAAVkMAAAIABgBgAAAA5AAB
+AAAJAAAAAAAAAAAAAgIAAABhZGRfdGl0bGVUaXRsZSIAAgAgAAkAYWRkX3RpdGxlAAUACQBhZGRf
+dGl0bGUAAwAkNlNlcnZlcmAAAgBSAAIAJDYFAAoAYWRkX3NlcnZlcgEAAAAKAq8AMgAQAAEABQBM
+b2NhbACuACIAAgAFAAAAAAAAAAUACgBhZGRfc2VydmVytAKuAAQAtQMDAAcADAAFAAkzUzRTACYA
+AQAAAAEBAAkBAAAKAQEOCgAAIwCtKwkAAQABAAAAAAAAAAAAV0MBASMJAAAAAAAAAAAAAAAAAAAA
+AAAABAAAAAAA//8AAAAAAAAAAAAAAAAAAFdDAQEjCQAAAAAAAAAAAAAAAAAAAAAAAAQIAAAAAP//
+AAAAAAAAAAAAAAAAAABCAAAAAAABAP///wABAN/fvwABAAAAAAAAAAAAAAAAAAEA////AAEAADOZ
+AAAAAQAAAAAAAQCAgIAAAAAAAAAAAAAIAAAAAAABAGBDHAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAA=
+</rawitemdata></item>
+<item name='$Comment' sign='true'><text/></item>
+<item name='$Flags'><text>PY</text></item>
+<item name='$DesignerVersion'><text>6.5</text></item>
+<item name='$V5ACTIONS' sign='true'>
+<rawitemdata type='1'>
+vRwjAAAAAQABAAAAAQAAAAAAAAABAKcJCAACAHn/bAABAN/fvwABAAAAAAABAAAzmQABAN/fvwAA
+AB8AAAAAAAAAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAPz/OgAAAAAABgAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAEAADOZAAAAAAAAAAAAAAC+/yYAAAAFAAAAnQEAAAsAAAAAAAAAQ2F0ZWdvcmlfemVl
+AQBOfL7/KAAAAAUAAACdAQAADgAAAAAAAABfRWRpdCBEb2N1bWVudAIAAgq+/ygAAAAFAAAAnQEA
+AA4AAAAAAAAAU2VuZCBEb2N1X21lbnQDAAMKvv8iAAAABQAAAJ0BAAAIAAAAAAAAAF9Gb3J3YXJk
+BAAECr7/LAAAAAUAAACdAQAAEgAAAAAAAABfTW92ZSBUbyBGb2xkZXIuLi4FAD18vv8uAAAABQAA
+AJ0BAAATAAAAAAAAAF9SZW1vdmUgRnJvbSBGb2xkZXIHBgA+fL7/WgAAAAEAHgCfAQAAEwAAAAAA
+AABDcmVhdGUgQWRkcmVzcyBCb29rADAAAAAiAAIA6AMAAAAAAAABAAwAQWRkcmVzcyBCb29r7QID
+AAcADAAFAAkwUzBFAA==
+</rawitemdata></item>
+<item name='$ACTIONS' sign='true'>
+<rawitemdata type='1'>
+vRwjAAAAAQABAAAAAQAAAAAAAAABAKcJCAACAL7/JgAAAAUAAACdAQAACwAAAAAAAABDYXRlZ29y
+aV96ZXEBAE58vv8oAAAABQAAAJ0BAAAOAAAAAAAAAF9FZGl0IERvY3VtZW50AgACCr7/KAAAAAUA
+AACdAQAADgAAAAAAAABTZW5kIERvY3VfbWVudAMAAwq+/yIAAAAFAAAAnQEAAAgAAAAAAAAAX0Zv
+cndhcmQEAAQKvv8sAAAABQAAAJ0BAAASAAAAAAAAAF9Nb3ZlIFRvIEZvbGRlci4uLgUAPXy+/y4A
+AAAFAAAAnQEAABMAAAAAAAAAX1JlbW92ZSBGcm9tIEZvbGRlcmgGAD58vv9aAAAAAQAeAJ8BAAAT
+AAAAAAAAAENyZWF0ZSBBZGRyZXNzIEJvb2sHMAAAACIAAgDoAwAAAAAAAAEADABBZGRyZXNzIEJv
+b2vtAgMABwAMAAUACTBTMEUA
+</rawitemdata></item></note>
+
